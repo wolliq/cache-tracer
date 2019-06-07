@@ -1,0 +1,25 @@
+
+/output/
+/tmp/
+src/main/oozie_dst/
+/misc/documentation/scripts/tmp
+data/
+project/project/
+project/target/
+src/main/scala/common/target/
+target/
+testout/
+testout_bif/
+testout_sbrres/
+/.settings
+/.cache
+/.classpath
+/.project
+/result
+/tmp
+.idea
+*.iml
+# text editor tmp files
+*~
+src/main/conf/job.properties
+src/main/conf/distriboxCredentials.conf
